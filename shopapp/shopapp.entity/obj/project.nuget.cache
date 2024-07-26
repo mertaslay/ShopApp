@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPAarwXSPhnscNp+3zK2+fwLs4GqvgnOdEqbOjau8gpXbJbSP7hRCLEBXJWfUx4eyVYTbKtix94oMslYozOq0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
